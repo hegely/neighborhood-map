@@ -16,13 +16,12 @@ export default class Popup extends Component {
 				<p className = 'popup-address'>{place.location.address}</p>			
 				{place.bestPhoto && (
 				<img
-					arial-label={place.name}
 					alt={place.name}
 					src={`${place.bestPhoto.prefix}320x240${place.bestPhoto.suffix}`}
 					onDragStart={event => event.preventDefault()}></img>
 				)}
 				<p className='credentials'>
-				Data provided by <a target='_blank' rel="noopener noreferrer" href='https://foursquare.com'>Foursquare</a>
+					Data provided by <a target='_blank' rel="noopener noreferrer" href='https://foursquare.com'>Foursquare</a>
 				</p>
 			</article>
 		</Dragg>

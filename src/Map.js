@@ -46,7 +46,7 @@ export default class Map extends Component {
 			style={{marginLeft: '250px'}}>
 			<CompMap
 				isMarkerShown={this.props.places.length > 0}
-				googleMapURL='https://maps.googleapis.com/maps/api/js?key=AIzaSyC2eiZsx2oT_y03EA5ksk4zLCFq0mifCVM&v=3.exp&libraries=geometry,drawing,places&callback=onMapLoaded'
+				googleMapURL='https://maps.googleapis.com/maps/api/js?key=AIzaSyD0xNWU6EIpEoG3nTjM-AAXZ5oeUe1BK7A&v=3.exp&libraries=geometry,drawing,places&callback=onMapLoaded'
 				loadingElement={<div style={{ height: `100%` }} />}
 				containerElement={<div style={{ height: `100%` }} />}
 				mapElement={<div style={{ height: `100%` }} />}
