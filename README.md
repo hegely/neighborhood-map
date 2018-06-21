@@ -18,8 +18,8 @@ Find the Stadiums in my area using Foursquare API and Goole Maps API.
 
 ## Features
 
-1. Application will find the Stadiums in my area using Foursquare category ID.
-2. Provide details from Foursquare for each stadium.
+1. Application will find the Stadiums in my area using Foursquare category ID and Goole Maps Geocoding API.
+2. Provided details from Foursquare for each stadium.
 3. Text search for stadium in Filter field.
 
 ## Credentials
