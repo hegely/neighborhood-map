@@ -4,8 +4,8 @@
 
 * [Overview](#overview)
 * [How to Run](#how-to-run)
-* [Features](#Features)
-* [Credentials](#Credentials)
+* [Features](#features)
+* [Credentials](#credentials)
 
 ## Overview
 
